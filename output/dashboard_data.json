@@ -1,0 +1,509 @@
+{
+  "model_name": "test",
+  "total_elements": 5178,
+  "total_rooms": 411,
+  "total_area": 0,
+  "total_cost": 1953780,
+  "cost_by_type": [
+    {
+      "name": "IfcWall",
+      "count": 1572,
+      "total_cost": 550200
+    },
+    {
+      "name": "IfcColumn",
+      "count": 844,
+      "total_cost": 430440
+    },
+    {
+      "name": "IfcBeam",
+      "count": 792,
+      "total_cost": 332640
+    },
+    {
+      "name": "IfcDoor",
+      "count": 314,
+      "total_cost": 204100
+    },
+    {
+      "name": "IfcWindow",
+      "count": 345,
+      "total_cost": 165600
+    },
+    {
+      "name": "IfcBuildingElementProxy",
+      "count": 677,
+      "total_cost": 101550
+    },
+    {
+      "name": "IfcSlab",
+      "count": 286,
+      "total_cost": 80080
+    },
+    {
+      "name": "IfcRailing",
+      "count": 242,
+      "total_cost": 48400
+    },
+    {
+      "name": "IfcStair",
+      "count": 19,
+      "total_cost": 22800
+    },
+    {
+      "name": "IfcCovering",
+      "count": 64,
+      "total_cost": 12800
+    },
+    {
+      "name": "IfcStairFlight",
+      "count": 20,
+      "total_cost": 4000
+    },
+    {
+      "name": "IfcRoof",
+      "count": 3,
+      "total_cost": 1170
+    }
+  ],
+  "materials": [
+    {
+      "name": "Unknown",
+      "count": 847,
+      "total_cost": 327120
+    },
+    {
+      "name": "K_i3_Hardwood vertical_azobe",
+      "count": 642,
+      "total_cost": 327420
+    },
+    {
+      "name": "K_i3_Hardwood horizontal_azobe",
+      "count": 612,
+      "total_cost": 257040
+    },
+    {
+      "name": "Basic Wall:K_42_WA_Wall tiles_50x50mm_15mm",
+      "count": 300,
+      "total_cost": 105000
+    },
+    {
+      "name": "K_i2_softwood",
+      "count": 262,
+      "total_cost": 146700
+    },
+    {
+      "name": "<Unnamed>",
+      "count": 252,
+      "total_cost": 58710
+    },
+    {
+      "name": "K_00_Clash material_Operation zone",
+      "count": 249,
+      "total_cost": 37350
+    },
+    {
+      "name": "Basic Wall:K_22_WA_Metalstud_2.50.2_100mm",
+      "count": 228,
+      "total_cost": 79800
+    },
+    {
+      "name": "K_i0_CLT Wood",
+      "count": 130,
+      "total_cost": 60730
+    },
+    {
+      "name": "Basic Wall:K_22_WA_Metalstud_schacht_45.1_57mm",
+      "count": 123,
+      "total_cost": 43050
+    }
+  ],
+  "spaces": [],
+  "storey_dist": [
+    {
+      "Storey": "00 begane grond",
+      "IFC_Type": "IfcBeam",
+      "count": 81
+    },
+    {
+      "Storey": "00 begane grond",
+      "IFC_Type": "IfcBuildingElementProxy",
+      "count": 3
+    },
+    {
+      "Storey": "00 begane grond",
+      "IFC_Type": "IfcColumn",
+      "count": 88
+    },
+    {
+      "Storey": "00 begane grond",
+      "IFC_Type": "IfcCovering",
+      "count": 3
+    },
+    {
+      "Storey": "00 begane grond",
+      "IFC_Type": "IfcDoor",
+      "count": 15
+    },
+    {
+      "Storey": "00 begane grond",
+      "IFC_Type": "IfcSlab",
+      "count": 37
+    },
+    {
+      "Storey": "00 begane grond",
+      "IFC_Type": "IfcStair",
+      "count": 5
+    },
+    {
+      "Storey": "00 begane grond",
+      "IFC_Type": "IfcWall",
+      "count": 77
+    },
+    {
+      "Storey": "00 begane grond",
+      "IFC_Type": "IfcWindow",
+      "count": 33
+    },
+    {
+      "Storey": "01 eerste verdieping",
+      "IFC_Type": "IfcBeam",
+      "count": 56
+    },
+    {
+      "Storey": "01 eerste verdieping",
+      "IFC_Type": "IfcBuildingElementProxy",
+      "count": 8
+    },
+    {
+      "Storey": "01 eerste verdieping",
+      "IFC_Type": "IfcColumn",
+      "count": 127
+    },
+    {
+      "Storey": "01 eerste verdieping",
+      "IFC_Type": "IfcCovering",
+      "count": 4
+    },
+    {
+      "Storey": "01 eerste verdieping",
+      "IFC_Type": "IfcDoor",
+      "count": 12
+    },
+    {
+      "Storey": "01 eerste verdieping",
+      "IFC_Type": "IfcRailing",
+      "count": 2
+    },
+    {
+      "Storey": "01 eerste verdieping",
+      "IFC_Type": "IfcSlab",
+      "count": 11
+    },
+    {
+      "Storey": "01 eerste verdieping",
+      "IFC_Type": "IfcStair",
+      "count": 4
+    },
+    {
+      "Storey": "01 eerste verdieping",
+      "IFC_Type": "IfcWall",
+      "count": 47
+    },
+    {
+      "Storey": "01 eerste verdieping",
+      "IFC_Type": "IfcWindow",
+      "count": 64
+    },
+    {
+      "Storey": "02 tweede verdieping",
+      "IFC_Type": "IfcBeam",
+      "count": 138
+    },
+    {
+      "Storey": "02 tweede verdieping",
+      "IFC_Type": "IfcBuildingElementProxy",
+      "count": 8
+    },
+    {
+      "Storey": "02 tweede verdieping",
+      "IFC_Type": "IfcColumn",
+      "count": 126
+    },
+    {
+      "Storey": "02 tweede verdieping",
+      "IFC_Type": "IfcCovering",
+      "count": 4
+    },
+    {
+      "Storey": "02 tweede verdieping",
+      "IFC_Type": "IfcDoor",
+      "count": 21
+    },
+    {
+      "Storey": "02 tweede verdieping",
+      "IFC_Type": "IfcRailing",
+      "count": 40
+    },
+    {
+      "Storey": "02 tweede verdieping",
+      "IFC_Type": "IfcSlab",
+      "count": 15
+    },
+    {
+      "Storey": "02 tweede verdieping",
+      "IFC_Type": "IfcStair",
+      "count": 2
+    },
+    {
+      "Storey": "02 tweede verdieping",
+      "IFC_Type": "IfcWall",
+      "count": 42
+    },
+    {
+      "Storey": "02 tweede verdieping",
+      "IFC_Type": "IfcWindow",
+      "count": 72
+    },
+    {
+      "Storey": "03 derde verdieping",
+      "IFC_Type": "IfcBeam",
+      "count": 124
+    },
+    {
+      "Storey": "03 derde verdieping",
+      "IFC_Type": "IfcBuildingElementProxy",
+      "count": 16
+    },
+    {
+      "Storey": "03 derde verdieping",
+      "IFC_Type": "IfcColumn",
+      "count": 128
+    },
+    {
+      "Storey": "03 derde verdieping",
+      "IFC_Type": "IfcCovering",
+      "count": 14
+    },
+    {
+      "Storey": "03 derde verdieping",
+      "IFC_Type": "IfcDoor",
+      "count": 66
+    },
+    {
+      "Storey": "03 derde verdieping",
+      "IFC_Type": "IfcRailing",
+      "count": 42
+    },
+    {
+      "Storey": "03 derde verdieping",
+      "IFC_Type": "IfcSlab",
+      "count": 48
+    },
+    {
+      "Storey": "03 derde verdieping",
+      "IFC_Type": "IfcStair",
+      "count": 3
+    },
+    {
+      "Storey": "03 derde verdieping",
+      "IFC_Type": "IfcWall",
+      "count": 352
+    },
+    {
+      "Storey": "03 derde verdieping",
+      "IFC_Type": "IfcWindow",
+      "count": 44
+    },
+    {
+      "Storey": "04 vierde verdieping",
+      "IFC_Type": "IfcBeam",
+      "count": 88
+    },
+    {
+      "Storey": "04 vierde verdieping",
+      "IFC_Type": "IfcBuildingElementProxy",
+      "count": 16
+    },
+    {
+      "Storey": "04 vierde verdieping",
+      "IFC_Type": "IfcColumn",
+      "count": 126
+    },
+    {
+      "Storey": "04 vierde verdieping",
+      "IFC_Type": "IfcCovering",
+      "count": 13
+    },
+    {
+      "Storey": "04 vierde verdieping",
+      "IFC_Type": "IfcDoor",
+      "count": 67
+    },
+    {
+      "Storey": "04 vierde verdieping",
+      "IFC_Type": "IfcRailing",
+      "count": 56
+    },
+    {
+      "Storey": "04 vierde verdieping",
+      "IFC_Type": "IfcSlab",
+      "count": 45
+    },
+    {
+      "Storey": "04 vierde verdieping",
+      "IFC_Type": "IfcStair",
+      "count": 3
+    },
+    {
+      "Storey": "04 vierde verdieping",
+      "IFC_Type": "IfcWall",
+      "count": 348
+    },
+    {
+      "Storey": "04 vierde verdieping",
+      "IFC_Type": "IfcWindow",
+      "count": 44
+    },
+    {
+      "Storey": "05 vijfde verdieping",
+      "IFC_Type": "IfcBeam",
+      "count": 90
+    },
+    {
+      "Storey": "05 vijfde verdieping",
+      "IFC_Type": "IfcBuildingElementProxy",
+      "count": 16
+    },
+    {
+      "Storey": "05 vijfde verdieping",
+      "IFC_Type": "IfcColumn",
+      "count": 126
+    },
+    {
+      "Storey": "05 vijfde verdieping",
+      "IFC_Type": "IfcCovering",
+      "count": 13
+    },
+    {
+      "Storey": "05 vijfde verdieping",
+      "IFC_Type": "IfcDoor",
+      "count": 67
+    },
+    {
+      "Storey": "05 vijfde verdieping",
+      "IFC_Type": "IfcRailing",
+      "count": 56
+    },
+    {
+      "Storey": "05 vijfde verdieping",
+      "IFC_Type": "IfcSlab",
+      "count": 46
+    },
+    {
+      "Storey": "05 vijfde verdieping",
+      "IFC_Type": "IfcStair",
+      "count": 2
+    },
+    {
+      "Storey": "05 vijfde verdieping",
+      "IFC_Type": "IfcWall",
+      "count": 348
+    },
+    {
+      "Storey": "05 vijfde verdieping",
+      "IFC_Type": "IfcWindow",
+      "count": 44
+    },
+    {
+      "Storey": "06 zesde verdieping",
+      "IFC_Type": "IfcBeam",
+      "count": 142
+    },
+    {
+      "Storey": "06 zesde verdieping",
+      "IFC_Type": "IfcBuildingElementProxy",
+      "count": 16
+    },
+    {
+      "Storey": "06 zesde verdieping",
+      "IFC_Type": "IfcColumn",
+      "count": 123
+    },
+    {
+      "Storey": "06 zesde verdieping",
+      "IFC_Type": "IfcCovering",
+      "count": 13
+    },
+    {
+      "Storey": "06 zesde verdieping",
+      "IFC_Type": "IfcDoor",
+      "count": 66
+    },
+    {
+      "Storey": "06 zesde verdieping",
+      "IFC_Type": "IfcRailing",
+      "count": 40
+    },
+    {
+      "Storey": "06 zesde verdieping",
+      "IFC_Type": "IfcSlab",
+      "count": 43
+    },
+    {
+      "Storey": "06 zesde verdieping",
+      "IFC_Type": "IfcWall",
+      "count": 345
+    },
+    {
+      "Storey": "06 zesde verdieping",
+      "IFC_Type": "IfcWindow",
+      "count": 44
+    },
+    {
+      "Storey": "07 dak",
+      "IFC_Type": "IfcBeam",
+      "count": 73
+    },
+    {
+      "Storey": "07 dak",
+      "IFC_Type": "IfcBuildingElementProxy",
+      "count": 132
+    },
+    {
+      "Storey": "07 dak",
+      "IFC_Type": "IfcRoof",
+      "count": 3
+    },
+    {
+      "Storey": "07 dak",
+      "IFC_Type": "IfcSlab",
+      "count": 37
+    },
+    {
+      "Storey": "07 dak",
+      "IFC_Type": "IfcWall",
+      "count": 13
+    },
+    {
+      "Storey": "Unknown",
+      "IFC_Type": "IfcBuildingElementProxy",
+      "count": 462
+    },
+    {
+      "Storey": "Unknown",
+      "IFC_Type": "IfcRailing",
+      "count": 6
+    },
+    {
+      "Storey": "Unknown",
+      "IFC_Type": "IfcSlab",
+      "count": 4
+    },
+    {
+      "Storey": "Unknown",
+      "IFC_Type": "IfcStairFlight",
+      "count": 20
+    }
+  ]
+}
